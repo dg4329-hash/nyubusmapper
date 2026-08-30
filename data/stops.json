@@ -1,0 +1,31 @@
+{
+  "_note": "Hand-placed coordinates. Tweak lat/lng here if a pin is off; `aliases` are normalized header names from the spreadsheets (see scripts/import-schedules.mjs normalize()).",
+  "stops": [
+    { "id": "broadway-715", "name": "715 Broadway", "short": "715 Bway", "lat": 40.72935, "lng": -73.99430, "aliases": ["715 broadway", "715 broadway departure", "715 broadway arrival"] },
+
+    { "id": "14-irving-eb", "name": "14th St at Irving Pl (eastbound)", "short": "14th & Irving (E)", "lat": 40.73390, "lng": -73.98760, "aliases": ["14 st at irving place eb"] },
+    { "id": "14-3av", "name": "14th St at 3rd Ave", "short": "14th & 3rd", "lat": 40.73310, "lng": -73.98620, "aliases": ["14 st at 3 ave"] },
+    { "id": "1av-17", "name": "1st Ave at 17th St", "short": "1st & 17th", "lat": 40.73290, "lng": -73.98020, "aliases": ["1 ave at 17 st"] },
+    { "id": "1av-24", "name": "1st Ave at 24th St", "short": "1st & 24th", "lat": 40.73730, "lng": -73.97690, "aliases": ["1 ave at 24 st"] },
+    { "id": "1av-26", "name": "1st Ave at 26th St", "short": "1st & 26th", "lat": 40.73860, "lng": -73.97600, "aliases": ["1 ave at 26 st"] },
+    { "id": "langone", "name": "NYU Langone Health", "short": "Langone", "lat": 40.74210, "lng": -73.97400, "aliases": ["nyu langone health"] },
+    { "id": "lex-31", "name": "Lexington Ave at 31st St", "short": "Lex & 31st", "lat": 40.74430, "lng": -73.98160, "aliases": ["lexington ave at 31 st"] },
+    { "id": "gramercy-green", "name": "Gramercy Green (3rd Ave & 23rd)", "short": "Gramercy Green", "lat": 40.73870, "lng": -73.98180, "aliases": ["gramercy green"] },
+    { "id": "3av-17", "name": "3rd Ave at 17th St", "short": "3rd & 17th", "lat": 40.73470, "lng": -73.98510, "aliases": ["3 ave at 17 st"] },
+    { "id": "14-irving-wb", "name": "14th St at Irving Pl (westbound)", "short": "14th & Irving (W)", "lat": 40.73420, "lng": -73.98800, "aliases": ["14 st at irving place wb"] },
+
+    { "id": "bway-broome", "name": "Broadway & Broome St", "short": "Bway & Broome", "lat": 40.72220, "lng": -73.99870, "aliases": ["broadway at broome st"] },
+    { "id": "80-lafayette", "name": "80 Lafayette St", "short": "80 Lafayette", "lat": 40.71750, "lng": -74.00130, "aliases": ["80 lafayette"] },
+    { "id": "cleveland-spring", "name": "Cleveland Pl & Spring St", "short": "Cleveland & Spring", "lat": 40.72220, "lng": -73.99700, "aliases": ["cleveland pl at spring st"] },
+    { "id": "lafayette-4", "name": "Lafayette St & E 4th St", "short": "Lafayette & 4th", "lat": 40.72690, "lng": -73.99320, "aliases": ["lafayette at e 4 st"] },
+
+    { "id": "stuy-20-loop", "name": "20th St & Loop Exit (Stuy Town)", "short": "20th & Loop", "lat": 40.73200, "lng": -73.97250, "aliases": ["20 st at loop exit"] },
+    { "id": "avec-18", "name": "Ave C & 18th St", "short": "Ave C & 18th", "lat": 40.73070, "lng": -73.97340, "aliases": ["ave c at 18 st"] },
+    { "id": "avec-16", "name": "Ave C & 16th St", "short": "Ave C & 16th", "lat": 40.72950, "lng": -73.97430, "aliases": ["ave c at 16 st"] },
+    { "id": "avec-14", "name": "Ave C & 14th St", "short": "Ave C & 14th", "lat": 40.72830, "lng": -73.97520, "aliases": ["ave c at 14 st"] },
+    { "id": "14-aveb", "name": "14th St & Ave B", "short": "14th & Ave B", "lat": 40.72900, "lng": -73.97700, "aliases": ["14 st at ave b"] },
+    { "id": "14-avea", "name": "14th St & Ave A", "short": "14th & Ave A", "lat": 40.73000, "lng": -73.97930, "aliases": ["14 st at ave a"] },
+    { "id": "14-1av", "name": "14th St & 1st Ave", "short": "14th & 1st", "lat": 40.73100, "lng": -73.98160, "aliases": ["14 st at 1 ave"] },
+    { "id": "3av-13", "name": "3rd Ave & 13th St", "short": "3rd & 13th", "lat": 40.73220, "lng": -73.98660, "aliases": ["3 ave at 13 st"] }
+  ]
+}
